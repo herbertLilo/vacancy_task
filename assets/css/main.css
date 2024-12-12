@@ -1,0 +1,7 @@
+/* Tailwind CSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Font Awesome Free version */
+@import '@fortawesome/fontawesome-free/css/all.css';
